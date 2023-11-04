@@ -1,0 +1,3 @@
+/home/senthilnathan/Documents/nucleus/build/CMakeFiles/nuclei.dir
+/home/senthilnathan/Documents/nucleus/build/CMakeFiles/edit_cache.dir
+/home/senthilnathan/Documents/nucleus/build/CMakeFiles/rebuild_cache.dir
